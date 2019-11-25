@@ -1,0 +1,6 @@
+numpy
+nltk
+gensim
+spacy
+cleantext
+pyLDAvis
