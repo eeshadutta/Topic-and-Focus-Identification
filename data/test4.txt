@@ -1,0 +1,50 @@
+This paper presents an initial attempt to develop a theory that relates focus of atten-
+tion, choice of referring expression, and perceived coherence of utterances within a
+discourse segment. The research described here is a further development of several
+strands of previous research. It fits within a larger effort to provide an overall theory
+of discourse structure and meaning. In this section we describe the larger research
+context of this work and then briefly discuss the previous work that led to it.
+Centering fits within the theory of discourse structure developed by Grosz and
+Sidner (1986). Grosz and Sidner distinguish among three components of discourse
+structure: a linguistic structure, an intentional structure, and an attentional state. At
+the level of linguistic structure, discourses divide into constituent discourse segments;
+an embedding relationship may hold between two segments. The intentional struc-
+ture comprises intentions and relations among them. The intentions provide the basic
+rationale for the discourse, and the relations represent the connections among these in-
+tentions. Attentional state models the discourse participants' focus of attention at any
+given point in the discourse. Changes in attentional state depend on the intentional
+structure and on properties of the utterances in the linguistic structure.
+Each discourse segment exhibits both local coherence-, coherence among the
+utterances in that segment--and global coherence-, coherence with other segments
+in the discourse. Corresponding to these two levels of coherence are two components of
+attentional state; the local level models changes in attentional state within a discourse
+segment, and the global level models attentional state properties at the intersegmental
+level.
+Grosz and Sidner argue that global coherence depends on the intentional structure.
+They propose that each discourse has an overall communicative purpose, the discourse
+purpose (DP); and each discourse segment has an associated intention, its discourse
+segment purpose (DSP). The DP and DSP are speaker intentions; they are correlates at
+the discourse level of the intentions Grice argued underlay utterance meaning (Grice
+1969). If a discourse is multi-party (e.g., a dialogue), then the DSP for a given segment
+is an intention of the conversational participant who initiates that segment. Lochbaum
+(1994) employs collaborative plans (Grosz and Kraus 1993) to model intentional struc-
+ture, and is thus able to integrate intentions of different participants. Satisfaction of the
+DSPs contributes to the satisfaction of the DP. Relationships between DSPs provide the
+basic structural relationships for the discourse; embeddings in the linguistic structure
+are derived from these relationships. The global coherence of a discourse depends on
+relationships among its DP and DSPs. Grosz and Sidner model the global-level com-
+ponent of the attentional state with a stack; pushes and pops of focus spaces on the
+stack depend on intentional relationships.
+
+And then when you see that some documents are connected to same set of words. You know they discuss the same topic. Then you can read one of those documents and know what all these documents talk about. But to do this you don’t have enough thread. You’re going to need around 500*1000=500,000 threads for that. But we are living in 2100 and we have exhausted all the resources for manufacturing threads, so they are so expensive and you can only afford 10,000 threads. How can you solve this problem?
+Go deeper to reduce the threads!
+
+We can solve this problem, by introducing a latent (i.e. hidden) layer. Say we know 10 topics/themes that occur throughout the documents. But these topics are not observed, we only observe words and documents, thus topics are latent. And we want to utilise this information to cut down on the number of threads. Then what you can do is, connect the words to the topics depending on how well that word fall in that topic and then connect the topics to the documents based on what topics each document touch upon.
+
+Now say you got each document having around 5 topics and each topic relating to 500 words. That is we need 1000*5 threads to connect documents to topics and 10*500 threads to connect topics to words, adding up to 10000.
+
+In this article we discussed about Latent Dirichlet Allocation (LDA). LDA is a powerful method that allows to identify topics within the documents and map documents to those topics. LDA has many uses to it such as recommending books to customers.
+
+We looked at how LDA works with an example of connecting threads. Then we saw a different perspective based on how LDA imagine a document is generated. Finally we went into the training of the model. In this we discussed a significant amount of mathematics behind LDA, while keeping the math light. We took a look at what a Dirichlet distribution looks like, what is the probability distribution we’re interested in finding (i.e. posterior) and how do we solve that using variational inference.
+
+I will post a tutorial on how to use LDA for topic modelling including some cool analysis as another tutorial. Cheer
