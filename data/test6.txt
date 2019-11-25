@@ -1,0 +1,20 @@
+In linguistics, the topic, or theme, of a sentence is what is being talked about, and the comment (rheme or focus) is what is being said about the topic. This division into old vs. new content is called information structure. It is generally agreed that clauses are divided into topic vs. comment, but in certain cases the boundary between them depends on which specific grammatical theory is being used to analyze the sentence.
+
+Topic, which is defined by pragmatic considerations, is a distinct concept from grammatical subject, which is defined by syntax. In any given sentence these may be the same, but they need not be. For example, in the sentence "As for the little girl, the dog bit her", the subject is "the dog" but the topic is "the little girl".
+
+Topic and subject are also distinct concepts from agent (or actor)—the "doer", which is defined by semantics. In English clauses with a verb in the passive voice, for instance, the topic is typically the subject, while the agent may be omitted or may follow the preposition by. For example, in the sentence "The little girl was bitten by the dog", "the little girl" is the subject and the topic, but "the dog" is the agent.
+
+In some languages, word order and other syntactic phenomena are determined largely by the topic–comment (theme–rheme) structure. These languages are sometimes referred to as topic-prominent languages. Korean and Japanese are often given as examples of this. 
+
+Different languages mark topics in different ways. Distinct intonation and word-order are the most common means. The tendency to place topicalized constituents sentence-initially ("topic fronting") is widespread. Topic fronting refers to placing the topic at the beginning of a clause regardless whether it is marked or not.[4] Again, linguists disagree on many details.
+
+Languages often show different kinds of grammar for sentences that introduce new topics and those that continue discussing previously established topics.
+
+When a sentence continues discussing a previously established topic, it is likely to use pronouns to refer to the topic. Such topics tend to be subjects. In many languages, pronouns referring to previously established topics will show pro-drop.
+In English
+
+The topic/theme comes first in the clause, and is typically marked out by intonation as well.[5] 
+
+Focus (abbreviated FOC) is a grammatical category that determines which part of the sentence contributes new, non-derivable, or contrastive information.[1] Focus is related to information structure. Contrastive focus specifically refers to the coding of information that is contrary to the presuppositions of the interlocutor.[2][3][4]
+
+The topic–comment model distinguishes between the topic (theme) and what is being said about that topic (the comment, rheme, or focus).
